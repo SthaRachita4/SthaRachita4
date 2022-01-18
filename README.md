@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SthaRachita4
 - 👀 I’m interested in Programming.
-- 🌱 I’m currently learning Dotnet,android-Stdio.
-- 💞️ I’m looking to collaborate on new project .
+- 🌱 I’m currently learning Dotnet.
+- 💞️ I’m looking to collaborate ..
 - ✨ 
 
 <!---
